@@ -12,9 +12,9 @@ footer a {
   margin: 8px;
 }
 
- .croissant-photo {
+.croissant-photo {
   max-width: 100%;
-  height: auto;
-  display: flex;
-  justify-content: center;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
